@@ -1,0 +1,31 @@
+
+#search_input{
+    width: 50%;
+    font-size: 20px;
+    margin-left: 20%;
+}
+#sidebar{
+    width: 15%;
+    margin-top: 5%;
+}
+#sidebar h3{
+    border: 1px solid black;    
+}
+.divs{
+   width: 80%;
+   margin-left: 10%;
+
+}
+.sz{
+   height: 200px;
+   width: 30%;
+}
+.sze{
+
+    margin-left: 32%;
+    margin-top: -15%;
+}
+#result{
+    display: grid;
+    grid-template-rows: repeat(20,1fr);
+}
